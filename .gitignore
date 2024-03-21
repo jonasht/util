@@ -1,0 +1,7 @@
+18-gerador_de_documento
+.env
+env
+venv
+.venv
+__pycache__
+.vscode
